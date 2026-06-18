@@ -28,7 +28,7 @@
 
 Yapay zekâ ve veri odaklı sistemlerle gerçek dünya problemlerini çözen bir **Yazılım Mühendisiyim**. İlgi alanım uçtan uca: ham veriyi işleyen pipeline'lardan üretime hazır makine öğrenmesi modellerine, LLM tabanlı akıllı asistanlardan gömülü IoT cihazlarına kadar. İyi mühendisliğin; doğru problemi seçmek, ölçeklenebilir kurmak ve gerçek etki üretmek olduğuna inanıyorum.
 
-- 🎓 **Atatürk Üniversitesi** — Yazılım Mühendisliği mezunu
+- 🎓 **Atatürk Üniversitesi** — Yazılım Mühendisi
 - 🔭 **Doğu Anadolu Gözlemevi (DAG)**'nde yapay zekâ tabanlı log/anomali sistemleri ve astronomik zaman serisi tahmini üzerine çalıştım
 - 🧠 Derin öğrenme, zaman serisi tahmini ve optimizasyon
 - 🤖 LLM · RAG · NLP tabanlı akıllı uygulamalar
@@ -109,7 +109,7 @@ Yapay zekâ ve veri odaklı sistemlerle gerçek dünya problemlerini çözen bir
 <!-- ║                       ÖNE ÇIKAN PROJELER                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 🚀 Öne Çıkan Projeler
+## Öne Çıkan Projeler
 
 <div align="center">
 
@@ -173,7 +173,7 @@ Yapay zekânın farklı alanlarındaki çalışmalarımdan bir seçki:
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       KATKI YILANI (SNAKE)                    ║ -->
+<!-- ║                       KATKI YILANI                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 🐍 Katkı Yılanı
